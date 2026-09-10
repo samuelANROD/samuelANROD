@@ -17,7 +17,7 @@
   <br><br>
   I'm particularly interested in programming, simulations, space science, and computational applications in science.
   <br><br>
-  Outside of my studies, I enjoy exploring <strong>Linux, NixOS, Bash, systems, hardware, and technology</strong>.
+  Outside of my studies, I enjoy exploring <strong>Linux, Bash, systems, hardware, and technology</strong>.
 </p>
 
 ###
@@ -32,8 +32,6 @@
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nixos/5277C3" height="40" alt="nixos logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
   <img width="12" />
