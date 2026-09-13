@@ -11,14 +11,7 @@
 
 ###
 
-<p data-importer="text" align="left">
-  Hi! I'm <strong>Samuel Anacleto Rodrigues</strong>, a Software Engineering student interested in 
-  <strong>Cybersecurity</strong> and <strong>Scientific Computing</strong>.
-  <br><br>
-  I'm particularly interested in programming, simulations, space science, and computational applications in science.
-  <br><br>
-  Outside of my studies, I enjoy exploring <strong>Linux, Bash, systems, hardware, and technology</strong>.
-</p>
+<p data-importer="text" align="left">Hi! I'm Samuel Anacleto Rodrigues, a Software Engineering student interested in Cybersecurity and Scientific Computing.<br><br>I'm particularly interested in programming, simulations, space science, and computational applications in science.<br><br>Outside of my studies, I enjoy exploring Linux, Bash, systems, hardware, and technology.</p>
 
 ###
 
