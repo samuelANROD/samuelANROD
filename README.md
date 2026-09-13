@@ -7,10 +7,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="178" src="https://i.pinimg.com/originals/f3/70/70/f37070078ef2e10282477cc08de490b1.gif"  />
-
-###
-
 <p data-importer="text" align="left">Hi! I'm Samuel Anacleto Rodrigues, a Software Engineering student interested in Cybersecurity and Scientific Computing.<br><br>I'm particularly interested in programming, simulations, space science, and computational applications in science.<br><br>Outside of my studies, I enjoy exploring Linux, Bash, systems, hardware, and technology.</p>
 
 ###
