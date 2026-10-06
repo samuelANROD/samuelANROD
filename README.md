@@ -1,53 +1,54 @@
+<h1 align="left">Hi, I'm Samuel 👋</h1>
 
-# SamuelANROD 💻
+<p align="left">
+  <img src="https://img.shields.io/badge/Software%20Engineering%20Student-000000?style=flat-square" alt="Software Engineering Student" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Scientific%20Computing-000000?style=flat-square" alt="Focus areas" />
+</p>
 
-###
+<p align="left">
+I'm Samuel Anacleto Rodrigues, a Software Engineering student with a particular interest in cybersecurity and scientific computing.
+<br><br>
+My main interests lie in programming, simulations, space science, and computational applications in science.
+<br><br>
+Outside of my studies, I enjoy exploring Linux, Bash, systems, hardware, and low-level technology in general.
+</p>
 
-<p data-importer="text" align="left">Hi! I'm Samuel Anacleto Rodrigues, a Software Engineering student interested in Cybersecurity and Scientific Computing.<br><br>I'm particularly interested in programming, simulations, space science, and computational applications in science.<br><br>Outside of my studies, I enjoy exploring Linux, Bash, systems, hardware, and technology.</p>
+<br>
 
-###
+## 🛠️ Technologies & Tools
 
-## Technologies & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+## 📚 Currently Learning
 
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
-## Currently Learning
+<br>
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo" />
-</div>
+## 📬 Connect with Me
 
-###
-
-
-## Connect with Me
-
-<div data-importer="socials" align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://www.instagram.com/anacleto__sam/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
   <a href="mailto:samuel.anacletorodrigues@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
+</p>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&theme=default&hide_title=true&count_private=true" alt="GitHub stats" width="400" />
