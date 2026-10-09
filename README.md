@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Samuel 👋</h1>
+<h1 align="left">Hi, I'm Samuel🐧</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Software%20Engineering%20Student-000000?style=flat-square" alt="Software Engineering Student" />
@@ -15,7 +15,7 @@ Outside of my studies, I enjoy exploring Linux, Bash, systems, hardware, and low
 
 <br>
 
-## 🛠️ Technologies & Tools
+## 👾 Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -26,7 +26,7 @@ Outside of my studies, I enjoy exploring Linux, Bash, systems, hardware, and low
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 📚 Currently Learning
+## 🧙‍♂️ Currently Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
@@ -35,7 +35,7 @@ Outside of my studies, I enjoy exploring Linux, Bash, systems, hardware, and low
 
 <br>
 
-## 📬 Connect with Me
+## 📞 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/">
