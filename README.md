@@ -48,7 +48,3 @@ Outside of my studies, I enjoy exploring Linux, Bash, systems, hardware, and low
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&theme=default&hide_title=true&count_private=true" alt="GitHub stats" width="400" />
