@@ -81,46 +81,54 @@ Outside academic studies, I enjoy exploring system architecture, command-line to
 
 <div align="center">
 
-**SYSTEMS & ENVIRONMENT**
-
-<img src="https://img.shields.io/badge/Linux-242424?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/NixOS-242424?style=flat-square&logo=nixos&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-242424?style=flat-square&logo=gnubash&logoColor=white" />
-
-<br>
-
-**PROGRAMMING & VERSION CONTROL**
-
-<img src="https://img.shields.io/badge/Python-242424?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-242424?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-242424?style=flat-square&logo=github&logoColor=white" />
-
-<br>
-
-**CURRENTLY LEARNING**
-
-<img src="https://img.shields.io/badge/C-242424?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-242424?style=flat-square&logo=cplusplus&logoColor=white" />
-
-</div>
-
-## / SELECTED PROJECTS
-
 <table>
 <tr>
-<td width="100%" valign="top">
-
-### KAGE — System Security Analytics
-
-A Python-based Linux authentication log analyzer focused on identifying suspicious SSH authentication patterns and generating security reports.
-
-**TECHNOLOGIES:** Python · Linux · Git
-
-<a href="https://github.com/samuelANROD/KAGE">VIEW PROJECT →</a>
-
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linux.svg" width="28" height="28" alt="Linux"/>
+<br/>
+<sub>Linux</sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/nixos.svg" width="28" height="28" alt="NixOS"/>
+<br/>
+<sub>NixOS</sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gnubash.svg" width="28" height="28" alt="Bash"/>
+<br/>
+<sub>Bash</sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/python.svg" width="28" height="28" alt="Python"/>
+<br/>
+<sub>Python</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/git.svg" width="28" height="28" alt="Git"/>
+<br/>
+<sub>Git</sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" width="28" height="28" alt="GitHub"/>
+<br/>
+<sub>GitHub</sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/c.svg" width="28" height="28" alt="C"/>
+<br/>
+<sub>C</sub>
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/cplusplus.svg" width="28" height="28" alt="C++"/>
+<br/>
+<sub>C++</sub>
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
