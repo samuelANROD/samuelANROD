@@ -4,19 +4,17 @@
 
 **SOFTWARE ENGINEERING STUDENT**
 
-Cybersecurity · Scientific Computing · Linux Systems
+Cybersecurity · Linux Systems · Software Development
 
 <br>
 
-<a href="https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/">
-  <img src="https://img.shields.io/badge/LINKEDIN-222222?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:samuel.anacletorodrigues@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-222222?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/samuelANROD">
-  <img src="https://img.shields.io/badge/GITHUB-222222?style=flat-square&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/samuelANROD">GitHub</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://www.instagram.com/anacleto__sam/">Instagram</a>
+&nbsp;·&nbsp;
+<a href="mailto:samuel.anacletorodrigues@gmail.com">Email</a>
 
 </div>
 
@@ -24,11 +22,11 @@ Cybersecurity · Scientific Computing · Linux Systems
 
 ## / ABOUT
 
-I'm a Software Engineering student interested in understanding how software and computer systems work, from high-level applications to low-level infrastructure.
+I'm a Software Engineering student interested in cybersecurity and understanding how computer systems work, from software applications to low-level infrastructure.
 
-My main interests are cybersecurity, scientific computing, and computational applications in science.
+My main focus is cybersecurity, particularly offensive security, penetration testing, and Linux environments.
 
-Outside academic studies, I spend time exploring Linux environments, system architecture, command-line tools, and hardware.
+Outside academic studies, I enjoy exploring system architecture, command-line tools, hardware, and open-source technologies.
 
 ## / AREAS OF INTEREST
 
@@ -36,7 +34,7 @@ Outside academic studies, I spend time exploring Linux environments, system arch
 <tr>
 <td width="50%" valign="top">
 
-**01 — Cybersecurity**
+**01 — CYBERSECURITY**
 
 - Offensive security
 - Penetration testing
@@ -46,19 +44,7 @@ Outside academic studies, I spend time exploring Linux environments, system arch
 </td>
 <td width="50%" valign="top">
 
-**02 — Scientific Computing**
-
-- Numerical computing
-- Computational physics
-- Scientific simulations
-- Astronomy applications
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 — Systems**
+**02 — LINUX & SYSTEMS**
 
 - Linux environments
 - System administration
@@ -66,43 +52,55 @@ Outside academic studies, I spend time exploring Linux environments, system arch
 - Low-level computing
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**04 — Software Engineering**
+**03 — SOFTWARE DEVELOPMENT**
 
-- Python development
+- Python programming
 - Software architecture
 - Algorithms and data structures
-- Version control
+- Problem solving
+
+</td>
+<td width="50%" valign="top">
+
+**04 — TECHNOLOGY**
+
+- Computer hardware
+- Open-source software
+- Operating systems
+- System configuration
 
 </td>
 </tr>
 </table>
 
-## / TECHNOLOGIES
+## / TECHNOLOGIES & TOOLS
 
 <div align="center">
 
 **SYSTEMS & ENVIRONMENT**
 
-<img src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/NixOS-222222?style=flat-square&logo=nixos&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-222222?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-242424?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/NixOS-242424?style=flat-square&logo=nixos&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-242424?style=flat-square&logo=gnubash&logoColor=white" />
 
 <br>
 
-**PROGRAMMING & TOOLS**
+**PROGRAMMING & VERSION CONTROL**
 
-<img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-242424?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-242424?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-242424?style=flat-square&logo=github&logoColor=white" />
 
 <br>
 
 **CURRENTLY LEARNING**
 
-<img src="https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-222222?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-242424?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-242424?style=flat-square&logo=cplusplus&logoColor=white" />
 
 </div>
 
@@ -110,13 +108,13 @@ Outside academic studies, I spend time exploring Linux environments, system arch
 
 <table>
 <tr>
-<td width="100%">
+<td width="100%" valign="top">
 
 ### KAGE — System Security Analytics
 
 A Python-based Linux authentication log analyzer focused on identifying suspicious SSH authentication patterns and generating security reports.
 
-**Focus:** Python · Linux · Log Analysis · Cybersecurity
+**TECHNOLOGIES:** Python · Linux · Git
 
 <a href="https://github.com/samuelANROD/KAGE">VIEW PROJECT →</a>
 
@@ -130,6 +128,6 @@ A Python-based Linux authentication log analyzer focused on identifying suspicio
 
 **SAMUEL ANACLETO RODRIGUES**
 
-<sub>SOFTWARE ENGINEERING · CYBERSECURITY · SCIENTIFIC COMPUTING</sub>
+<sub>SOFTWARE ENGINEERING · CYBERSECURITY · LINUX SYSTEMS</sub>
 
 </div>
