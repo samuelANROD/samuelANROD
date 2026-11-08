@@ -1,50 +1,135 @@
-<h1 align="left">Hi, I'm Samuel🐧</h1>
+ <div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Software%20Engineering%20Student-000000?style=flat-square" alt="Software Engineering Student" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Scientific%20Computing-000000?style=flat-square" alt="Focus areas" />
-</p>
+# SAMUEL ANACLETO RODRIGUES
 
-<p align="left">
-I'm Samuel Anacleto Rodrigues, a Software Engineering student with a particular interest in cybersecurity and scientific computing.
-<br><br>
-My main interests lie in programming, simulations, space science, and computational applications in science.
-<br><br>
-Outside of my studies, I enjoy exploring Linux, Bash, systems, hardware, and low-level technology in general.
-</p>
+**SOFTWARE ENGINEERING STUDENT**
+
+Cybersecurity · Scientific Computing · Linux Systems
 
 <br>
 
-## 👾 Technologies & Tools
+<a href="https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/">
+  <img src="https://img.shields.io/badge/LINKEDIN-222222?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:samuel.anacletorodrigues@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-222222?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/samuelANROD">
+  <img src="https://img.shields.io/badge/GITHUB-222222?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+</div>
 
-## 🧙‍♂️ Currently Learning
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
+## / ABOUT
+
+I'm a Software Engineering student interested in understanding how software and computer systems work, from high-level applications to low-level infrastructure.
+
+My main interests are cybersecurity, scientific computing, and computational applications in science.
+
+Outside academic studies, I spend time exploring Linux environments, system architecture, command-line tools, and hardware.
+
+## / AREAS OF INTEREST
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 — Cybersecurity**
+
+- Offensive security
+- Penetration testing
+- Network security
+- Linux security
+
+</td>
+<td width="50%" valign="top">
+
+**02 — Scientific Computing**
+
+- Numerical computing
+- Computational physics
+- Scientific simulations
+- Astronomy applications
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 — Systems**
+
+- Linux environments
+- System administration
+- Bash scripting
+- Low-level computing
+
+</td>
+<td width="50%" valign="top">
+
+**04 — Software Engineering**
+
+- Python development
+- Software architecture
+- Algorithms and data structures
+- Version control
+
+</td>
+</tr>
+</table>
+
+## / TECHNOLOGIES
+
+<div align="center">
+
+**SYSTEMS & ENVIRONMENT**
+
+<img src="https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/NixOS-222222?style=flat-square&logo=nixos&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-222222?style=flat-square&logo=gnubash&logoColor=white" />
 
 <br>
 
-## 📞 Connect with Me
+**PROGRAMMING & TOOLS**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/anacleto__sam/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:samuel.anacletorodrigues@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=white" />
+
+<br>
+
+**CURRENTLY LEARNING**
+
+<img src="https://img.shields.io/badge/C-222222?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-222222?style=flat-square&logo=cplusplus&logoColor=white" />
+
+</div>
+
+## / SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="100%">
+
+### KAGE — System Security Analytics
+
+A Python-based Linux authentication log analyzer focused on identifying suspicious SSH authentication patterns and generating security reports.
+
+**Focus:** Python · Linux · Log Analysis · Cybersecurity
+
+<a href="https://github.com/samuelANROD/KAGE">VIEW PROJECT →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**SAMUEL ANACLETO RODRIGUES**
+
+<sub>SOFTWARE ENGINEERING · CYBERSECURITY · SCIENTIFIC COMPUTING</sub>
+
+</div>
