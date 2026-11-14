@@ -68,27 +68,27 @@ Computer hardware, open-source software, operating systems, system configuration
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=light" width="40" height="40" alt="Linux"/>
 <br/><sub><b>Linux</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash"/>
+<img src="https://skillicons.dev/icons?i=bash&theme=light" width="40" height="40" alt="Bash"/>
 <br/><sub><b>Bash</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python&theme=light" width="40" height="40" alt="Python"/>
 <br/><sub><b>Python</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=git&theme=light" width="40" height="40" alt="Git"/>
 <br/><sub><b>Git</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github&theme=light" width="40" height="40" alt="GitHub"/>
 <br/><sub><b>GitHub</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nix" width="40" height="40" alt="NixOS"/>
+<img src="https://skillicons.dev/icons?i=nix&theme=light" width="40" height="40" alt="NixOS"/>
 <br/><sub><b>NixOS</b></sub>
 </td>
 </tr>
@@ -103,11 +103,11 @@ Computer hardware, open-source software, operating systems, system configuration
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C"/>
+<img src="https://skillicons.dev/icons?i=c&theme=light" width="40" height="40" alt="C"/>
 <br/><sub><b>C</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust"/>
+<img src="https://skillicons.dev/icons?i=rust&theme=light" width="40" height="40" alt="Rust"/>
 <br/><sub><b>Rust</b></sub>
 </td>
 </tr>
