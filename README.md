@@ -87,6 +87,10 @@ Computer hardware, open-source software, operating systems, system configuration
 <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
 <br/><sub><b>GitHub</b></sub>
 </td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nix" width="40" height="40" alt="NixOS"/>
+<br/><sub><b>NixOS</b></sub>
+</td>
 </tr>
 </table>
 
