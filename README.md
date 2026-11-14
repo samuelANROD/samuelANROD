@@ -68,27 +68,23 @@ Computer hardware, open-source software, operating systems, system configuration
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" height="36" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/>
 <br/><sub><b>Linux</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" width="36" height="36" alt="NixOS"/>
-<br/><sub><b>NixOS</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="36" height="36" alt="Bash"/>
+<img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash"/>
 <br/><sub><b>Bash</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
 <br/><sub><b>Python</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
 <br/><sub><b>Git</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
 <br/><sub><b>GitHub</b></sub>
 </td>
 </tr>
@@ -103,11 +99,11 @@ Computer hardware, open-source software, operating systems, system configuration
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" height="36" alt="C"/>
+<img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C"/>
 <br/><sub><b>C</b></sub>
 </td>
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="36" height="36" alt="Rust"/>
+<img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust"/>
 <br/><sub><b>Rust</b></sub>
 </td>
 </tr>
