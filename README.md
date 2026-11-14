@@ -1,126 +1,159 @@
-<div align="center">
+ <div align="center">
 
-# SAMUEL ANACLETO RODRIGUES
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101A16,50:183B2C,100:245C40&height=190&section=header&text=SAMUEL%20ANACLETO&fontSize=38&fontColor=E5F3E9&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
 
-**SOFTWARE ENGINEERING STUDENT**
+### SOFTWARE ENGINEERING STUDENT
 
-Cybersecurity · Linux Systems · Software Development
+**Cybersecurity · Linux Systems · Software Development**
 
-<br>
-
-<a href="https://github.com/samuelANROD">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://www.instagram.com/anacleto__sam/">Instagram</a>
-&nbsp;·&nbsp;
-<a href="mailto:samuel.anacletorodrigues@gmail.com">Email</a>
+[![GitHub](https://img.shields.io/badge/GitHub-101A16?style=flat-square&logo=github&logoColor=white)](https://github.com/samuelANROD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-101A16?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/)
+[![Instagram](https://img.shields.io/badge/Instagram-101A16?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anacleto__sam/)
+[![Email](https://img.shields.io/badge/Email-101A16?style=flat-square&logo=gmail&logoColor=white)](mailto:samuel.anacletorodrigues@gmail.com)
 
 </div>
 
 ---
 
-## / ABOUT
+## `01 / ABOUT ME`
 
-I'm a Software Engineering student interested in cybersecurity and understanding how computer systems work, from software applications to low-level infrastructure.
+I'm a Software Engineering student with a strong interest in cybersecurity, Linux systems, and understanding how computers work beyond the surface.
 
-My main focus is cybersecurity, particularly offensive security, penetration testing, and Linux environments.
+My main direction is offensive security, particularly penetration testing, network security, and Linux environments.
 
-Outside academic studies, I enjoy exploring system architecture, command-line tools, hardware, and open-source technologies.
+I enjoy learning by building things, experimenting with different technologies, and understanding the principles behind the tools I use.
 
-## / AREAS OF INTEREST
+Currently, I'm developing my programming skills with Python while exploring systems programming through C and Rust.
+
+I also enjoy working with Linux, customizing my environment, exploring open-source software, and learning how operating systems work.
+
+**My philosophy:** Understand how things work, not just how to use them.
+
+## `02 / AREAS OF INTEREST`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — CYBERSECURITY**
-Offensive security, penetration testing, network security, Linux security.
+### Cybersecurity
+
+- Offensive Security
+- Penetration Testing
+- Network Security
+- Linux Security
+- Log Analysis
 
 </td>
 <td width="50%" valign="top">
 
-**02 — LINUX & SYSTEMS**
-Linux environments, system administration, Bash scripting, low-level computing.
+### Linux & Systems
+
+- Linux Environments
+- Operating Systems
+- System Administration
+- Bash Scripting
+- System Architecture
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 — SOFTWARE DEVELOPMENT**
-Python programming, software architecture, algorithms and data structures, problem solving.
+### Software Development
+
+- Python Programming
+- Systems Programming
+- Data Structures
+- Algorithms
+- Software Architecture
 
 </td>
 <td width="50%" valign="top">
 
-**04 — TECHNOLOGY**
-Computer hardware, open-source software, operating systems, system configuration.
+### Computer Science
+
+- Computer Hardware
+- Low-level Computing
+- Open-source Software
+- Computer Architecture
+- Scientific Computing
 
 </td>
 </tr>
 </table>
 
-## / TECHNOLOGIES & TOOLS
+## `03 / TECHNOLOGIES & TOOLS`
+
+Technologies and tools I currently use in my studies and personal projects.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=linux&theme=light" width="40" height="40" alt="Linux"/>
-<br/><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=bash&theme=light" width="40" height="40" alt="Bash"/>
-<br/><sub><b>Bash</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=python&theme=light" width="40" height="40" alt="Python"/>
-<br/><sub><b>Python</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git&theme=light" width="40" height="40" alt="Git"/>
-<br/><sub><b>Git</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github&theme=light" width="40" height="40" alt="GitHub"/>
-<br/><sub><b>GitHub</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nix&theme=light" width="40" height="40" alt="NixOS"/>
-<br/><sub><b>NixOS</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,linux,nix,bash,git,github,neovim&theme=dark" />
 
 </div>
 
-## / CURRENTLY LEARNING
+| Technology | Usage |
+|:---|:---|
+| Python | Programming and automation |
+| Linux / NixOS | Operating systems and system configuration |
+| Bash | Shell scripting and command-line workflows |
+| Git | Version control |
+| GitHub | Project management and collaboration |
+| Neovim | Code editing and development environment |
+
+### Currently Learning
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=c&theme=light" width="40" height="40" alt="C"/>
-<br/><sub><b>C</b></sub>
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=rust&theme=light" width="40" height="40" alt="Rust"/>
-<br/><sub><b>Rust</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=c,rust&theme=dark" />
 
 </div>
+
+Exploring lower-level programming, memory management, performance, and how software interacts with computer hardware.
+
+## `04 / CURRENT FOCUS`
+
+Things I'm currently dedicating time to:
+
+- Improving my Python programming skills.
+- Exploring C and Rust for systems programming.
+- Developing my knowledge of security analysis.
+- Understanding Linux internals and system administration.
+- Studying networking and offensive security fundamentals.
+- Improving my understanding of algorithms and computer science.
+
+## `05 / GITHUB STATISTICS`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelANROD&layout=compact&theme=merko&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=samuelANROD&theme=merko&hide_border=true" />
+
+</div>
+
+## `06 / BEYOND THE CODE`
+
+Outside programming, I'm interested in computer hardware, operating systems, astronomy, and scientific computing.
+
+I enjoy exploring how technology works at a deeper level, from low-level software to the systems that make modern computing possible.
+
+I'm always looking for opportunities to learn, experiment, and build something meaningful.
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:245C40,50:183B2C,100:101A16&height=110&section=footer" width="100%"/>
 
 **SAMUEL ANACLETO RODRIGUES**
 
-<sub>SOFTWARE ENGINEERING · CYBERSECURITY · LINUX SYSTEMS</sub>
+`SOFTWARE ENGINEERING` · `CYBERSECURITY` · `LINUX SYSTEMS`
+
+<sub>Always learning. Always building. Always exploring.</sub>
 
 </div>
