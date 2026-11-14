@@ -84,7 +84,7 @@ I also enjoy working with Linux, customizing my environment, exploring open-sour
 
 ## `03 / TECHNOLOGIES & TOOLS`
 
-Technologies and tools I currently use in my studies and personal projects.
+### KNOW
 
 <div align="center">
 
@@ -92,24 +92,13 @@ Technologies and tools I currently use in my studies and personal projects.
 
 </div>
 
-| Technology | Usage |
-|:---|:---|
-| Python | Programming and automation |
-| Linux / NixOS | Operating systems and system configuration |
-| Bash | Shell scripting and command-line workflows |
-| Git | Version control |
-| GitHub | Project management and collaboration |
-| Neovim | Code editing and development environment |
-
-### Currently Learning
+### CURRENTLY LEARNING
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,rust&theme=dark" />
 
 </div>
-
-Exploring lower-level programming, memory management, performance, and how software interacts with computer hardware.
 
 ## `04 / CURRENT FOCUS`
 
@@ -128,11 +117,7 @@ Things I'm currently dedicating time to:
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelANROD&layout=compact&theme=merko&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=samuelANROD&theme=merko&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=samuelANROD&layout=compact&theme=merko&hide_border=true" />
 
 </div>
 
