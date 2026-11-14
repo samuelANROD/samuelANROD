@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101A16,50:183B2C,100:245C40&height=190&section=header&text=SAMUEL%20ANACLETO&fontSize=38&fontColor=E5F3E9&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
 
@@ -33,50 +34,38 @@ I also enjoy working with Linux, customizing my environment, exploring open-sour
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### Cybersecurity
+### CYBERSECURITY
 
-- Offensive Security
-- Penetration Testing
-- Network Security
-- Linux Security
-- Log Analysis
-
-</td>
-<td width="50%" valign="top">
-
-### Linux & Systems
-
-- Linux Environments
-- Operating Systems
-- System Administration
-- Bash Scripting
-- System Architecture
+Offensive Security · Penetration Testing · Network Security · Linux Security · Log Analysis
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### Software Development
+### LINUX & SYSTEMS
 
-- Python Programming
-- Systems Programming
-- Data Structures
-- Algorithms
-- Software Architecture
+Linux Environments · Operating Systems · System Administration · Bash Scripting · System Architecture
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 
-### Computer Science
+### SOFTWARE DEVELOPMENT
 
-- Computer Hardware
-- Low-level Computing
-- Open-source Software
-- Computer Architecture
-- Scientific Computing
+Python Programming · Systems Programming · Data Structures · Algorithms · Software Architecture
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+### COMPUTER SCIENCE
+
+Computer Hardware · Low-level Computing · Open-source Software · Computer Architecture · Scientific Computing
 
 </td>
 </tr>
@@ -115,7 +104,7 @@ Things I'm currently dedicating time to:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=samuelANROD&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&rank_icon=github" />
 
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=samuelANROD&layout=compact&theme=merko&hide_border=true" />
 
