@@ -7,7 +7,9 @@
 
 Cybersecurity · Linux Systems · Software Development · Computer Science
 
-[GitHub](https://github.com/samuelANROD) · [LinkedIn](https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/) · [Email](mailto:samuel.anacletorodrigues@gmail.com)
+<a href="https://github.com/samuelANROD">GitHub</a> &nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/">LinkedIn</a> &nbsp; / &nbsp;
+<a href="mailto:samuel.anacletorodrigues@gmail.com">Email</a>
 
 </div>
 
@@ -15,67 +17,54 @@ Cybersecurity · Linux Systems · Software Development · Computer Science
 
 ## 01 / PROFILE
 
-Software Engineering student focused on understanding how computers, operating systems and software work.
+I'm a Software Engineering student interested in understanding how computers, operating systems and software work at a deeper level.
 
-My main interests are offensive cybersecurity, Linux environments, systems programming and computer science.
+My main area of interest is cybersecurity, especially offensive security and penetration testing. I'm interested in learning how systems operate, identifying vulnerabilities and understanding the techniques used to analyze and secure digital environments.
 
-I value strong fundamentals, practical experience and continuous learning.
+I also have a strong interest in Linux and systems programming. I enjoy exploring different distributions, customizing my environment and learning about operating system internals, computer architecture and memory management.
 
-## 02 / CURRENT FOCUS
+Currently, I'm developing my programming skills with Python, C and Java, while strengthening my foundations in algorithms, data structures and computer science.
 
-- Python — Object-Oriented Programming and software development.
-- C — Programming fundamentals, memory management and systems programming.
-- Cybersecurity — Networking, penetration testing and offensive security.
-- Linux — Operating systems, system administration and NixOS.
-- Computer Science — Algorithms, architecture and problem solving.
+Beyond software development and cybersecurity, I'm fascinated by astronomy, physics and scientific computing. In the long term, I would like to explore the intersection between programming, computational science and astrophysics.
 
-## 03 / TECHNOLOGY STACK
+My goal is to become a well-rounded engineer, with strong technical fundamentals and the ability to understand technology from both software and hardware perspectives.
+
+## 02 / TECHNOLOGY STACK
 
 **Programming Languages**
 
 <p>
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white">
-</p>
-
-**Web & Database**
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF">
 </p>
 
 **Operating Systems & Shell**
 
 <p>
-<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/NixOS-111111?style=flat-square&logo=nixos&logoColor=white">
-<img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/NixOS-000000?style=for-the-badge&logo=nixos&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF">
 </p>
 
 **Development Tools**
 
 <p>
-<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/CMake-111111?style=flat-square&logo=cmake&logoColor=white">
-<img src="https://img.shields.io/badge/GCC-111111?style=flat-square&logo=gnu&logoColor=white">
-<img src="https://img.shields.io/badge/SSH-111111?style=flat-square&logo=openssh&logoColor=white">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/OpenSSH-000000?style=for-the-badge&logo=openssh&logoColor=FFFFFF">
 </p>
 
-**IDEs & Environment**
+**Editor & Terminal**
 
 <p>
-<img src="https://img.shields.io/badge/Neovim-111111?style=flat-square&logo=neovim&logoColor=white">
-<img src="https://img.shields.io/badge/CLion-111111?style=flat-square&logo=clion&logoColor=white">
-<img src="https://img.shields.io/badge/PyCharm-111111?style=flat-square&logo=pycharm&logoColor=white">
-<img src="https://img.shields.io/badge/Terminal-111111?style=flat-square&logo=gnometerminal&logoColor=white">
+<img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Konsole-000000?style=for-the-badge&logo=konsole&logoColor=FFFFFF">
 </p>
 
-## 04 / GITHUB ACTIVITY
+## 03 / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -93,15 +82,15 @@ I value strong fundamentals, practical experience and continuous learning.
 
 </div>
 
-## 05 / INTERESTS
+## 04 / INTERESTS
 
 **Cybersecurity** — Offensive Security, Penetration Testing and Network Security.
 
-**Systems** — Linux, Operating Systems, Computer Architecture and Low-level Programming.
+**Systems & Computing** — Linux, Operating Systems, Computer Architecture and Low-level Programming.
 
 **Software Engineering** — Software Development, Algorithms and Problem Solving.
 
-**Scientific Computing** — Astronomy, Physics and Computational Science.
+**Science** — Astronomy, Physics and Scientific Computing.
 
 ---
 
