@@ -34,32 +34,32 @@ My goal is to become a well-rounded engineer, with strong technical fundamentals
 ### Programming Languages
 
 <p>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="58" height="58" alt="Python"></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="58" height="58" alt="C"></a>
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="58" height="58" alt="Java"></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" alt="Python"></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="64" height="64" alt="C"></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="64" height="64" alt="Java"></a>
 </p>
 
 ### Operating Systems & Shell
 
 <p>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="58" height="58" alt="Linux"></a>
-<a href="https://nixos.org/"><img src="https://skillicons.dev/icons?i=nix" width="58" height="58" alt="NixOS"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="58" height="58" alt="Bash"></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="64" height="64" alt="Linux"></a>
+<a href="https://nixos.org/"><img src="https://skillicons.dev/icons?i=nix&theme=dark" width="64" height="64" alt="NixOS"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="64" height="64" alt="Bash"></a>
 </p>
 
 ### Development Tools
 
 <p>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="58" height="58" alt="Git"></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub"></a>
-<a href="https://gcc.gnu.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="58" height="58" alt="GCC"></a>
-<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" width="58" height="58" alt="CMake"></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git"></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" alt="GitHub"></a>
+<a href="https://gcc.gnu.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="64" height="64" alt="GCC"></a>
+<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake&theme=dark" width="64" height="64" alt="CMake"></a>
 </p>
 
 ### Editor
 
 <p>
-<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="58" height="58" alt="Neovim"></a>
+<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="64" height="64" alt="Neovim"></a>
 </p>
 
 ---
@@ -70,7 +70,7 @@ My goal is to become a well-rounded engineer, with strong technical fundamentals
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelANROD&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&area_color=e5e5e5&hide_border=true&custom_title=Contribution%20Activity">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true">
 
 </div>
 
