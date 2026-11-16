@@ -34,34 +34,32 @@ My goal is to become a well-rounded engineer, with strong technical fundamentals
 **Programming Languages**
 
 <p align="left">
-<a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="54" height="54" alt="Python"/></a>&nbsp;&nbsp;
-<a href="https://en.cppreference.com/w/c"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="54" height="54" alt="C"/></a>&nbsp;&nbsp;
-<a href="https://www.java.com/"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="54" height="54" alt="Java"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="58" height="58" alt="Python"/></a>&nbsp;&nbsp;
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="58" height="58" alt="C"/></a>&nbsp;&nbsp;
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="58" height="58" alt="Java"/></a>
 </p>
 
 **Operating Systems & Shell**
 
 <p align="left">
-<a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="54" height="54" alt="Linux"/></a>&nbsp;&nbsp;
-<a href="https://nixos.org/"><img src="https://cdn.simpleicons.org/nixos/5277C3" width="54" height="54" alt="NixOS"/></a>&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="54" height="54" alt="Bash"/></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="58" height="58" alt="Linux"/></a>&nbsp;&nbsp;
+<a href="https://nixos.org/"><img src="https://skillicons.dev/icons?i=nix" width="58" height="58" alt="NixOS"/></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="58" height="58" alt="Bash"/></a>
 </p>
 
 **Development Tools**
 
 <p align="left">
-<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="54" height="54" alt="Git"/></a>&nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" width="54" height="54" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://gcc.gnu.org/"><img src="https://cdn.simpleicons.org/gnu/A42E2B" width="54" height="54" alt="GNU GCC"/></a>&nbsp;&nbsp;
-<a href="https://cmake.org/"><img src="https://cdn.simpleicons.org/cmake/064F8C" width="54" height="54" alt="CMake"/></a>&nbsp;&nbsp;
-<a href="https://www.openssh.com/"><img src="https://cdn.simpleicons.org/openssh/EE7A00" width="54" height="54" alt="OpenSSH"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="58" height="58" alt="Git"/></a>&nbsp;&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://gcc.gnu.org/"><img src="https://skillicons.dev/icons?i=gcc" width="58" height="58" alt="GCC"/></a>&nbsp;&nbsp;
+<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" width="58" height="58" alt="CMake"/></a>
 </p>
 
-**Editor & Terminal**
+**Editor**
 
 <p align="left">
-<a href="https://neovim.io/"><img src="https://cdn.simpleicons.org/neovim/57A143" width="54" height="54" alt="Neovim"/></a>&nbsp;&nbsp;
-<a href="https://konsole.kde.org/"><img src="https://cdn.simpleicons.org/konsole/1D99F3" width="54" height="54" alt="Konsole"/></a>
+<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="58" height="58" alt="Neovim"/></a>
 </p>
 
 ## GITHUB ACTIVITY
