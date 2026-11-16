@@ -34,32 +34,32 @@ My goal is to become a well-rounded engineer, with strong technical fundamentals
 ### Programming Languages
 
 <p>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" height="64" alt="Python"></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="64" height="64" alt="C"></a>
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="64" height="64" alt="Java"></a>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="68" height="68" alt="Python"></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="68" height="68" alt="C"></a>
+<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="68" height="68" alt="Java"></a>
 </p>
 
 ### Operating Systems & Shell
 
 <p>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="64" height="64" alt="Linux"></a>
-<a href="https://nixos.org/"><img src="https://skillicons.dev/icons?i=nix&theme=dark" width="64" height="64" alt="NixOS"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="64" height="64" alt="Bash"></a>
+<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="68" height="68" alt="Linux"></a>
+<a href="https://nixos.org/"><img src="https://cdn.simpleicons.org/nixos/5277C3" width="68" height="68" alt="NixOS"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="68" height="68" alt="Bash"></a>
 </p>
 
 ### Development Tools
 
 <p>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" height="64" alt="Git"></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" height="64" alt="GitHub"></a>
-<a href="https://gcc.gnu.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="64" height="64" alt="GCC"></a>
-<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake&theme=dark" width="64" height="64" alt="CMake"></a>
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="68" height="68" alt="Git"></a>
+<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="68" height="68" alt="GitHub"></a>
+<a href="https://gcc.gnu.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="68" height="68" alt="GCC"></a>
+<a href="https://cmake.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="68" height="68" alt="CMake"></a>
 </p>
 
 ### Editor
 
 <p>
-<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="64" height="64" alt="Neovim"></a>
+<a href="https://neovim.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="68" height="68" alt="Neovim"></a>
 </p>
 
 ---
@@ -69,8 +69,6 @@ My goal is to become a well-rounded engineer, with strong technical fundamentals
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelANROD&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&area_color=e5e5e5&hide_border=true&custom_title=Contribution%20Activity">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true">
 
 </div>
 
