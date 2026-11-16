@@ -7,9 +7,9 @@
 
 Cybersecurity · Linux Systems · Software Development · Computer Science
 
-<a href="https://github.com/samuelANROD">GitHub</a> &nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/">LinkedIn</a> &nbsp; / &nbsp;
-<a href="mailto:samuel.anacletorodrigues@gmail.com">Email</a>
+[GitHub](https://github.com/samuelANROD) &nbsp; / &nbsp;
+[LinkedIn](https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/) &nbsp; / &nbsp;
+[Email](mailto:samuel.anacletorodrigues@gmail.com)
 
 </div>
 
@@ -33,35 +33,35 @@ My goal is to become a well-rounded engineer, with strong technical fundamentals
 
 **Programming Languages**
 
-<p>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFFFFF">
+<p align="left">
+<a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="54" height="54" alt="Python"/></a>&nbsp;&nbsp;
+<a href="https://en.cppreference.com/w/c"><img src="https://cdn.simpleicons.org/c/A8B9CC" width="54" height="54" alt="C"/></a>&nbsp;&nbsp;
+<a href="https://www.java.com/"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="54" height="54" alt="Java"/></a>
 </p>
 
 **Operating Systems & Shell**
 
-<p>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/NixOS-000000?style=for-the-badge&logo=nixos&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=FFFFFF">
+<p align="left">
+<a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" width="54" height="54" alt="Linux"/></a>&nbsp;&nbsp;
+<a href="https://nixos.org/"><img src="https://cdn.simpleicons.org/nixos/5277C3" width="54" height="54" alt="NixOS"/></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="54" height="54" alt="Bash"/></a>
 </p>
 
 **Development Tools**
 
-<p>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/OpenSSH-000000?style=for-the-badge&logo=openssh&logoColor=FFFFFF">
+<p align="left">
+<a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" width="54" height="54" alt="Git"/></a>&nbsp;&nbsp;
+<a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/181717" width="54" height="54" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://gcc.gnu.org/"><img src="https://cdn.simpleicons.org/gnu/A42E2B" width="54" height="54" alt="GNU GCC"/></a>&nbsp;&nbsp;
+<a href="https://cmake.org/"><img src="https://cdn.simpleicons.org/cmake/064F8C" width="54" height="54" alt="CMake"/></a>&nbsp;&nbsp;
+<a href="https://www.openssh.com/"><img src="https://cdn.simpleicons.org/openssh/EE7A00" width="54" height="54" alt="OpenSSH"/></a>
 </p>
 
 **Editor & Terminal**
 
-<p>
-<img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Konsole-000000?style=for-the-badge&logo=konsole&logoColor=FFFFFF">
+<p align="left">
+<a href="https://neovim.io/"><img src="https://cdn.simpleicons.org/neovim/57A143" width="54" height="54" alt="Neovim"/></a>&nbsp;&nbsp;
+<a href="https://konsole.kde.org/"><img src="https://cdn.simpleicons.org/konsole/1D99F3" width="54" height="54" alt="Konsole"/></a>
 </p>
 
 ## GITHUB ACTIVITY
