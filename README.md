@@ -7,9 +7,7 @@
 
 Cybersecurity · Linux Systems · Software Development · Computer Science
 
-[GitHub](https://github.com/samuelANROD) &nbsp; / &nbsp;
-[LinkedIn](https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/) &nbsp; / &nbsp;
-[Email](mailto:samuel.anacletorodrigues@gmail.com)
+[GitHub](https://github.com/samuelANROD) · [LinkedIn](https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/) · [Email](mailto:samuel.anacletorodrigues@gmail.com)
 
 </div>
 
@@ -29,38 +27,42 @@ Beyond software development and cybersecurity, I'm fascinated by astronomy, phys
 
 My goal is to become a well-rounded engineer, with strong technical fundamentals and the ability to understand technology from both software and hardware perspectives.
 
+---
+
 ## TECHNOLOGY STACK
 
-**Programming Languages**
+### Programming Languages
 
-<p align="left">
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="58" height="58" alt="Python"/></a>&nbsp;&nbsp;
-<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="58" height="58" alt="C"/></a>&nbsp;&nbsp;
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="58" height="58" alt="Java"/></a>
+<p>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="58" height="58" alt="Python"></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="58" height="58" alt="C"></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="58" height="58" alt="Java"></a>
 </p>
 
-**Operating Systems & Shell**
+### Operating Systems & Shell
 
-<p align="left">
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="58" height="58" alt="Linux"/></a>&nbsp;&nbsp;
-<a href="https://nixos.org/"><img src="https://skillicons.dev/icons?i=nix" width="58" height="58" alt="NixOS"/></a>&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="58" height="58" alt="Bash"/></a>
+<p>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="58" height="58" alt="Linux"></a>
+<a href="https://nixos.org/"><img src="https://skillicons.dev/icons?i=nix" width="58" height="58" alt="NixOS"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="58" height="58" alt="Bash"></a>
 </p>
 
-**Development Tools**
+### Development Tools
 
-<p align="left">
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="58" height="58" alt="Git"/></a>&nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://gcc.gnu.org/"><img src="https://skillicons.dev/icons?i=gcc" width="58" height="58" alt="GCC"/></a>&nbsp;&nbsp;
-<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" width="58" height="58" alt="CMake"/></a>
+<p>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="58" height="58" alt="Git"></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="58" height="58" alt="GitHub"></a>
+<a href="https://gcc.gnu.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="58" height="58" alt="GCC"></a>
+<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" width="58" height="58" alt="CMake"></a>
 </p>
 
-**Editor**
+### Editor
 
-<p align="left">
-<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="58" height="58" alt="Neovim"/></a>
+<p>
+<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="58" height="58" alt="Neovim"></a>
 </p>
+
+---
 
 ## GITHUB ACTIVITY
 
@@ -68,17 +70,11 @@ My goal is to become a well-rounded engineer, with strong technical fundamentals
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelANROD&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&area_color=e5e5e5&hide_border=true&custom_title=Contribution%20Activity">
 
-<br>
-
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelANROD&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333">
-
-<br>
-
-<img width="100%" src="https://streak-stats.demolab.com?user=samuelANROD&theme=default&hide_border=true&background=FFFFFF&ring=111111&fire=555555&currStreakLabel=111111&sideLabels=333333&currStreakNum=111111&sideNums=111111&dates=777777">
-
 </div>
+
+---
 
 ## INTERESTS
 
