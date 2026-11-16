@@ -15,7 +15,7 @@ Cybersecurity · Linux Systems · Software Development · Computer Science
 
 ---
 
-## 01 / PROFILE
+## PROFILE
 
 I'm a Software Engineering student interested in understanding how computers, operating systems and software work at a deeper level.
 
@@ -29,7 +29,7 @@ Beyond software development and cybersecurity, I'm fascinated by astronomy, phys
 
 My goal is to become a well-rounded engineer, with strong technical fundamentals and the ability to understand technology from both software and hardware perspectives.
 
-## 02 / TECHNOLOGY STACK
+## TECHNOLOGY STACK
 
 **Programming Languages**
 
@@ -64,7 +64,7 @@ My goal is to become a well-rounded engineer, with strong technical fundamentals
 <img src="https://img.shields.io/badge/Konsole-000000?style=for-the-badge&logo=konsole&logoColor=FFFFFF">
 </p>
 
-## 03 / GITHUB ACTIVITY
+## GITHUB ACTIVITY
 
 <div align="center">
 
@@ -82,7 +82,7 @@ My goal is to become a well-rounded engineer, with strong technical fundamentals
 
 </div>
 
-## 04 / INTERESTS
+## INTERESTS
 
 **Cybersecurity** — Offensive Security, Penetration Testing and Network Security.
 
