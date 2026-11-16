@@ -1,97 +1,51 @@
+<div align="center"> <img src="assets/banner.svg" alt="Samuel Anacleto" width="100%"> <br>
 
-<div align="center">
+github  ·  linkedin  ·  email
 
-# SAMUEL ANACLETO
+<br> <img src="assets/about.svg" alt="about" width="360"> </div> <p align="center"> I'm a Software Engineering student interested in understanding how computers,<br> operating systems and software work at a deeper level. </p> <p align="center"> My main area of interest is <b>cybersecurity</b>, especially offensive security and penetration testing.<br> I want to learn how systems operate, identify vulnerabilities and understand<br> the techniques used to analyze and secure digital environments. </p> <p align="center"> I also love <b>Linux</b> and systems programming: exploring distributions, customizing my environment<br> and learning about operating system internals, computer architecture and memory management. </p> <p align="center"> Right now I'm sharpening <b>Python</b> and <b>C</b>, while strengthening my foundations<br> in algorithms, data structures and computer science. </p> <p align="center"> Beyond code, I'm fascinated by astronomy, physics and scientific computing.<br> Long term, I want to explore the intersection between programming, computational science and astrophysics. </p> <p align="center"> <i>Goal: a well-rounded engineer who understands technology from both the software and the hardware side.</i> </p> <br> <div align="center"> <img src="assets/stack.svg" alt="stack" width="360">
 
-**SOFTWARE ENGINEERING STUDENT**
+<br><br>
 
-Cybersecurity · Linux Systems · Software Development · Computer Science
+<sub><b>LANGUAGES</b></sub>
 
-[GitHub](https://github.com/samuelANROD) · [LinkedIn](https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/) · [Email](mailto:samuel.anacletorodrigues@gmail.com)
+<a href="https://github.com/samuelANROD"><img src="https://skillicons.dev/icons?i=c,py&theme=dark&perline=2" alt="C, Python" height="64"></a>
 
-</div>
+<br>
 
----
+<sub><b>SYSTEMS & SHELL</b></sub>
 
-## PROFILE
+<a href="https://github.com/samuelANROD"><img src="https://skillicons.dev/icons?i=linux,nix,bash&theme=dark&perline=3" alt="Linux, NixOS, Bash" height="64"></a>
 
-I'm a Software Engineering student interested in understanding how computers, operating systems and software work at a deeper level.
+<br>
 
-My main area of interest is cybersecurity, especially offensive security and penetration testing. I'm interested in learning how systems operate, identifying vulnerabilities and understanding the techniques used to analyze and secure digital environments.
+<sub><b>TOOLS</b></sub>
 
-I also have a strong interest in Linux and systems programming. I enjoy exploring different distributions, customizing my environment and learning about operating system internals, computer architecture and memory management.
+<a href="https://github.com/samuelANROD"><img src="https://skillicons.dev/icons?i=git,github,cmake,neovim&theme=dark&perline=4" alt="Git, GitHub, CMake, Neovim" height="64"></a>
 
-Currently, I'm developing my programming skills with Python, C and Java, while strengthening my foundations in algorithms, data structures and computer science.
+<br><br><br>
 
-Beyond software development and cybersecurity, I'm fascinated by astronomy, physics and scientific computing. In the long term, I would like to explore the intersection between programming, computational science and astrophysics.
+<img src="assets/stats.svg" alt="stats" width="360">
 
-My goal is to become a well-rounded engineer, with strong technical fundamentals and the ability to understand technology from both software and hardware perspectives.
+<br><br>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&hide_border=false&border_color=2a2a2a&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&text_bold=false" alt="GitHub stats"> &nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelANROD&layout=compact&langs_count=6&hide_border=false&border_color=2a2a2a&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Most used languages">
 
-## TECHNOLOGY STACK
+<br><br><br>
 
-### Programming Languages
+<img src="assets/activity.svg" alt="activity" width="360">
 
-<p>
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="68" height="68" alt="Python"></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="68" height="68" alt="C"></a>
-<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="68" height="68" alt="Java"></a>
-</p>
-
-### Operating Systems & Shell
-
-<p>
-<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="68" height="68" alt="Linux"></a>
-<a href="https://nixos.org/"><img src="https://cdn.simpleicons.org/nixos/5277C3" width="68" height="68" alt="NixOS"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="68" height="68" alt="Bash"></a>
-</p>
-
-### Development Tools
-
-<p>
-<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="68" height="68" alt="Git"></a>
-<a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="68" height="68" alt="GitHub"></a>
-<a href="https://gcc.gnu.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="68" height="68" alt="GCC"></a>
-<a href="https://cmake.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="68" height="68" alt="CMake"></a>
-</p>
-
-### Editor
-
-<p>
-<a href="https://neovim.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="68" height="68" alt="Neovim"></a>
-</p>
-
----
-
-## GITHUB ACTIVITY
-
-<div align="center">
+<br><br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelANROD&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&area_color=e5e5e5&hide_border=true&custom_title=Contribution%20Activity">
 
-</div>
+<br><br><br>
 
----
+<img src="assets/interests.svg" alt="interests" width="360"> </div> <br> <p align="center"> <b>Cybersecurity</b><br> <sub>Offensive Security · Penetration Testing · Network Security</sub> </p> <p align="center"> <b>Systems &amp; Computing</b><br> <sub>Linux · Operating Systems · Computer Architecture · Low-level Programming</sub> </p> <p align="center"> <b>Software Engineering</b><br> <sub>Software Development · Algorithms · Problem Solving</sub> </p> <p align="center"> <b>Science</b><br> <sub>Astronomy · Physics · Scientific Computing</sub> </p> <br> <div align="center">
 
-## INTERESTS
-
-**Cybersecurity** — Offensive Security, Penetration Testing and Network Security.
-
-**Systems & Computing** — Linux, Operating Systems, Computer Architecture and Low-level Programming.
-
-**Software Engineering** — Software Development, Algorithms and Problem Solving.
-
-**Science** — Astronomy, Physics and Scientific Computing.
-
----
-
-<div align="center">
-
-**SAMUEL ANACLETO RODRIGUES**
+SAMUEL ANACLETO RODRIGUES
 
 <sub>ENGINEERING · COMPUTING · SECURITY</sub>
 
-<sub>Always learning. Always building.</sub>
+<sub><i>Always learning. Always building.</i></sub>
 
 </div>
