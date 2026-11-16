@@ -1,148 +1,106 @@
 
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1800&q=90&sat=-100" width="100%" alt="Black and white desert dunes"/>
+# SAMUEL ANACLETO
 
-<br/>
+**Software Engineering Student**
 
-<h1>SAMUEL ANACLETO</h1>
+Cybersecurity · Linux · Software Development · Computer Science
+
+<br>
+
+[GitHub](https://github.com/samuelANROD) /
+[LinkedIn](https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/) /
+[Email](mailto:samuel.anacletorodrigues@gmail.com)
+
+</div>
+
+<br>
+
+---
+
+## 01. About
+
+I'm a Software Engineering student interested in understanding how
+computers, operating systems and software work.
+
+My main interests are offensive cybersecurity, Linux environments,
+systems programming and computer science.
+
+I enjoy exploring technology at a deeper level, studying its
+fundamentals and developing practical projects along the way.
+
+## 02. Technology Stack
+
+**Programming Languages**
 
 <p>
-SOFTWARE ENGINEERING STUDENT
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white">
 </p>
+
+**Operating Systems & Tools**
 
 <p>
-CYBERSECURITY · SYSTEMS · SOFTWARE DEVELOPMENT
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/NixOS-111111?style=for-the-badge&logo=nixos&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white">
 </p>
 
-<br/>
+**Development Environment**
 
-<a href="https://github.com/samuelANROD">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:samuel.anacletorodrigues@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<h2 align="center">About me</h2>
-
-<p align="center">
-Software Engineering student focused on understanding technology
-beyond the surface.
+<p>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Neovim-111111?style=for-the-badge&logo=neovim&logoColor=white">
 </p>
 
-<p align="center">
-Interested in offensive cybersecurity, Linux systems,
-software development and computer science.
-</p>
+## 03. Currently Learning
 
-<p align="center">
-I believe in understanding the fundamentals,
-building practical experience and learning continuously.
-</p>
+| Area | Focus |
+|:---|:---|
+| Python | Object-Oriented Programming and problem solving |
+| C | Programming fundamentals and memory management |
+| Cybersecurity | Networking and offensive security |
+| Computer Science | Algorithms and computer architecture |
+| Linux | System administration and internals |
 
-<br/>
+## 04. Areas of Interest
 
-<h2 align="center">Technologies</h2>
+- **Cybersecurity** — Penetration Testing, Offensive Security and Network Security.
+- **Systems** — Linux, Operating Systems and Low-level Programming.
+- **Software Engineering** — Software Architecture, Algorithms and Development.
+- **Scientific Computing** — Astronomy, Physics and Computational Science.
 
-<p align="center">
-<strong>PROGRAMMING</strong>
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white"/>
-</p>
-
-<p align="center">
-<strong>SYSTEMS & ENVIRONMENT</strong>
-<br/><br/>
-<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/NixOS-111111?style=flat-square&logo=nixos&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white"/>
-</p>
-
-<p align="center">
-<strong>DEVELOPMENT TOOLS</strong>
-<br/><br/>
-<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neovim-111111?style=flat-square&logo=neovim&logoColor=white"/>
-</p>
-
-<br/>
-
-<h2 align="center">Current focus</h2>
+## 05. GitHub Activity
 
 <div align="center">
 
-Python & Object-Oriented Programming
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelANROD&bg_color=ffffff&color=111111&line=111111&point=555555&area=true&area_color=cccccc&hide_border=true&custom_title=Contribution%20Activity">
 
-C & Systems Programming
+<br><br>
 
-Linux Internals & Computer Architecture
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333&icon_color=111111&include_all_commits=true">
 
-Networking & Offensive Security
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelANROD&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=333333">
 
-Algorithms & Problem Solving
+<br>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=samuelANROD&theme=default&hide_border=true&background=FFFFFF&ring=111111&fire=555555&currStreakLabel=111111&sideLabels=333333&currStreakNum=111111&sideNums=111111&dates=777777">
 
 </div>
 
-<br/>
+<br>
 
-<h2 align="center">Areas of interest</h2>
+---
 
 <div align="center">
 
-**01 / CYBERSECURITY**
+**SAMUEL ANACLETO RODRIGUES**
 
-Offensive Security · Penetration Testing · Network Security
+Engineering · Computing · Security
 
-**02 / SYSTEMS**
-
-Linux · Operating Systems · Low-level Computing
-
-**03 / DEVELOPMENT**
-
-Python · C · Software Engineering · Algorithms
-
-**04 / SCIENCE**
-
-Astronomy · Physics · Scientific Computing
+<sub>Always learning. Always building.</sub>
 
 </div>
 
-<br/>
-
-<h2 align="center">GitHub statistics</h2>
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=samuelANROD&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true"/>
-
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelANROD&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=AAAAAA"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1509316785289-025f5b846b35?auto=format&fit=crop&w=1800&q=85&sat=-100" width="100%" alt="Monochrome desert landscape"/>
-
-<br/><br/>
-
-<h2>SAMUEL ANACLETO RODRIGUES</h2>
-
-<sub>ENGINEERING · COMPUTING · SECURITY</sub>
-
-<br/><br/>
-
-<sub>UNDERSTAND THE SYSTEM. BUILD WITH PURPOSE.</sub>
-
-</div>
