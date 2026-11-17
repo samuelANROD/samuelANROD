@@ -28,7 +28,6 @@ Outside of code, I'm fascinated by astronomy, physics and scientific computing. 
 <p>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"></a>
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"></a>
