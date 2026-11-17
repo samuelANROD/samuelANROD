@@ -1,6 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Samuel%20Anacleto&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=software%20engineering%20student%20%C2%B7%20cybersecurity%20%C2%B7%20linux&descSize=18&descAlignY=60" width="100%" alt="Samuel Anacleto">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=160&section=header&text=Samuel%20Anacleto&fontSize=42&fontColor=000000&fontAlignY=42&animation=fadeIn&desc=software%20engineering%20student%20%C2%B7%20cybersecurity%20%C2%B7%20linux&descSize=13&descAlignY=65" width="100%" alt="Samuel Anacleto">
 
 [github](https://github.com/samuelANROD) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/) &nbsp;·&nbsp; [email](mailto:samuel.anacletorodrigues@gmail.com)
+
+</div>
 
 <img src="penguins.jpg" align="right" width="360" alt="i just gotta be me">
 
@@ -18,7 +23,38 @@ Outside of code, I'm fascinated by astronomy, physics and scientific computing. 
 
 ### stack
 
-<a href="https://github.com/samuelANROD"><img src="https://skillicons.dev/icons?i=c,py,linux,nix,bash,git,github,cmake,neovim&theme=light&perline=9" alt="C, Python, Linux, NixOS, Bash, Git, GitHub, CMake, Neovim" height="56"></a>
+**Languages**
+
+<p>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"></a>
+</p>
+
+**Tools**
+
+<p>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"></a>
+<a href="https://gcc.gnu.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="48" height="48" alt="GCC"></a>
+<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake"></a>
+</p>
+
+**Systems**
+
+<p>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"></a>
+<a href="https://nixos.org/"><img src="https://cdn.simpleicons.org/nixos/5277C3" width="48" height="48" alt="NixOS"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"></a>
+</p>
+
+**IDE & Editors**
+
+<p>
+<a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim"></a>
+<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm"></a>
+</p>
 
 ### activity
 
@@ -31,10 +67,12 @@ Outside of code, I'm fascinated by astronomy, physics and scientific computing. 
 **Software Engineering** · Development, Algorithms, Problem Solving<br>
 **Science** · Astronomy, Physics, Scientific Computing
 
-<p align="right">
-<b>SAMUEL ANACLETO RODRIGUES</b><br>
+<div align="right">
+
+**SAMUEL ANACLETO RODRIGUES**<br>
 <sub>ENGINEERING · COMPUTING · SECURITY</sub><br>
 <sub><i>Always learning. Always building.</i></sub>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=140&section=footer&reversal=true" width="100%" alt="">
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&reversal=true" width="100%" alt="">
