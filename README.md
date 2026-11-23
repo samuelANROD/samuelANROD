@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3500&pause=1000&color=111111&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I+am+Samuel+Anacleto" alt="Hi, I am Samuel Anacleto">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3500&pause=1000&color=007BFF&center=true&vCenter=true&width=850&height=65&lines=Hi%2C+I+am+Samuel+Anacleto" alt="Hi, I am Samuel Anacleto">
 
 [github](https://github.com/samuelANROD) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/samuel-anacleto-rodrigues-a61abb407/) &nbsp;·&nbsp; [email](mailto:samuel.anacletorodrigues@gmail.com)
 
