@@ -15,7 +15,7 @@ I'm a Software Engineering student interested in how computers, operating system
 
 My main focus is **cybersecurity**, especially offensive security and penetration testing: learning how systems operate, finding vulnerabilities and understanding how to secure them.
 
-I love **Linux** and systems programming: distros, OS internals, computer architecture and memory management. Right now I'm sharpening **Python** and **C**, plus algorithms and data structures.
+I love **Linux** and systems programming: distros, OS internals, computer architecture and memory management. Right now I'm sharpening **Python**, **C** and **C++**, plus algorithms and data structures.
 
 Outside of code, I'm fascinated by astronomy, physics and scientific computing. Long term, I want to explore where programming meets astrophysics.
 
@@ -28,6 +28,7 @@ Outside of code, I'm fascinated by astronomy, physics and scientific computing. 
 <p>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"></a>
 <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"></a>
