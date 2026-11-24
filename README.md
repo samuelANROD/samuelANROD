@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=120&section=header" width="100%" alt="">
 
 <div align="center">
 
@@ -7,9 +8,11 @@
 
 </div>
 
-<img src="penguins.jpg" align="right" width="360" alt="i just gotta be me">
-
 ### profile
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 I'm a Software Engineering student interested in how computers, operating systems and software work at a deeper level.
 
@@ -19,38 +22,43 @@ I love **Linux** and systems programming: distros, OS internals, computer archit
 
 Outside of code, I'm fascinated by astronomy, physics and scientific computing. Long term, I want to explore where programming meets astrophysics.
 
-<br clear="right">
+</td>
+<td width="40%" valign="top" align="center">
 
-### stack
+**Languages**
 
-**Languages** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Tools**
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="32" height="32" alt="Python"></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="32" height="32" alt="C"></a>
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="32" height="32" alt="C++"></a>
 
-<p>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"></a>
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"></a>
-<a href="https://gcc.gnu.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="48" height="48" alt="GCC"></a>
-<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake"></a>
-</p>
+**Tools**
 
-**Systems** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **IDE & Editors**
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="32" height="32" alt="Git"></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" alt="GitHub"></a>
+<a href="https://gcc.gnu.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="32" height="32" alt="GCC"></a>
+<a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" width="32" height="32" alt="CMake"></a>
 
-<p>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"></a>
-<a href="https://nixos.org/"><img src="https://cdn.simpleicons.org/nixos/5277C3" width="48" height="48" alt="NixOS"></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim"></a>
-<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim"></a>
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm"></a>
-</p>
+**Systems**
+
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="32" height="32" alt="Linux"></a>
+<a href="https://nixos.org/"><img src="https://cdn.simpleicons.org/nixos/5277C3" width="32" height="32" alt="NixOS"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" width="32" height="32" alt="Bash"></a>
+
+**IDE & Editors**
+
+<a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" width="32" height="32" alt="Vim"></a>
+<a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" width="32" height="32" alt="Neovim"></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" width="32" height="32" alt="PyCharm"></a>
+
+</td>
+</tr>
+</table>
 
 ### activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelANROD&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&area_color=e5e5e5&hide_border=true&custom_title=Contribution%20Activity">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelANROD&layout=compact&bg_color=ffffff&title_color=111111&text_color=111111&hide_border=true&langs_count=8">
 
 ### interests
 
@@ -67,4 +75,4 @@ Outside of code, I'm fascinated by astronomy, physics and scientific computing. 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&reversal=true" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=100&section=footer&reversal=true" width="100%" alt="">
