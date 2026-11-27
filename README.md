@@ -56,8 +56,6 @@ Outside of code, I'm fascinated by astronomy, physics and scientific computing. 
 
 ### activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelANROD&bg_color=ffffff&color=111111&line=111111&point=111111&area=true&area_color=e5e5e5&hide_border=true&custom_title=Contribution%20Activity">
-
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelANROD&layout=compact&bg_color=ffffff&title_color=111111&text_color=111111&hide_border=true&langs_count=8">
 
 ### interests
